@@ -31,6 +31,8 @@ Landing page criada com intuito de aumentar o conhecimento e portfólio.
     <img alt="Landing-page" title="Landing-page" src="https://github.com/sjtorres/landingpage-coca/blob/main/img/tela.png" width="500px" />
 </h1>
 
+[CLIQUE AQUI PARA ACESSAR O PROJETO](https://sjtorres.github.io/landingpage-coca/)
+
 ## 🔖 Baixar ou clonar o repositório
 
 Para clonar e executar este aplicativo, você precisará fazer o download do zip ou o clone do repositório: git clone git@github.com:sjtorres/landingpage-coca.git instalado no seu computador.
